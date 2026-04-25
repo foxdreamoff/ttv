@@ -1,0 +1,6 @@
+=== FICHIER DE LOGS DES VISITEURS ===
+Format: [Date Heure] IP: adresse_ip | User-Agent: navigateur
+Les adresses IP des visiteurs seront enregistrées automatiquement ci-dessous:
+
+---
+
